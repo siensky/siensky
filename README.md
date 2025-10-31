@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Sienna 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME!)](https://git.io/typing-svg)
+
 I’m a **Full-Stack JavaScript Developer student** at **Chas Academy** in Stockholm 🇸🇪 — currently in my **first year**, focusing on **open-source development** and **modern web technologies**.
 
 I’m **curious**, **eager to learn**, and passionate about building clean, user-friendly applications.  
