@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sienna Lansky
+# 👋 Hi, I’m Sienna 
 
 I’m a **Full-Stack JavaScript Developer student** at **Chas Academy** in Stockholm 🇸🇪 — currently in my **first year**, focusing on **open-source development** and **modern web technologies**.
 
