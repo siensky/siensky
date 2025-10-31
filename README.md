@@ -10,15 +10,15 @@ My goal is to grow as a developer and kick-start my career in tech through hands
 ---
 
 ### 🌱 What I’m working on
-- 💻 Building full-stack projects with **JavaScript**, **Node.js**, and **React**
-- 🧩 Exploring **open-source contributions** and **collaboration**
-- 🎨 Learning **best practices** in frontend & backend development
+- Building full-stack projects with **JavaScript**, **Node.js**, and **React**
+- Exploring **open-source contributions** and **collaboration**
+- Learning **best practices** in frontend & backend development
 
 ---
 
 ### 🎯 Goals
-- 🚀 Find a **LIA internship (Nov 2026 – Apr 2027)** to apply my skills in a real-world environment  
-- 🌟 Keep improving every day as a developer and teammate
+-  Find a **LIA internship (Nov 2026 – Apr 2027)** to apply my skills in a real-world environment  
+- 🌟 Keep improving every day as a developer and teammate 🌟  
 
 ---
 
@@ -39,5 +39,5 @@ My goal is to grow as a developer and kick-start my career in tech through hands
 
 ---
 
-### 👀 Visitors
+### Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=siensky&style=flat-square&color=blue)
