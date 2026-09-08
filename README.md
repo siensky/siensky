@@ -1,4 +1,4 @@
-# Hi, I'm [Ditt Namn]
+# Hi, I'm Sienna
 
 Full-Stack JavaScript Developer student at Chas Academy, Stockholm. Currently in my second year, working toward a career as a fullstack developer with a focus on backend.
 
