@@ -1,43 +1,25 @@
-# 👋 Hi, I’m Sienna 
+# Hi, I'm [Ditt Namn]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME!)](https://git.io/typing-svg)
+Full-Stack JavaScript Developer student at Chas Academy, Stockholm. Currently in my second year, working toward a career as a fullstack developer with a focus on backend.
 
-I’m a **Full-Stack JavaScript Developer student** at **Chas Academy** in Stockholm 🇸🇪 — currently in my **first year**, focusing on **open-source development** and **modern web technologies**.
+I'm particularly interested in system design — how services are structured, how they communicate, and how those decisions hold up as a system grows. That's also what draws me to backend work: the problem solving that happens before any code gets written, figuring out the right structure for the job.
 
-I’m **curious**, **eager to learn**, and passionate about building clean, user-friendly applications.  
-My goal is to grow as a developer and kick-start my career in tech through hands-on experience and continuous learning.
+## Currently
 
----
+- Building fullstack projects with JavaScript/TypeScript, Node.js and React
+- Studying backend architecture, APIs and system design alongside coursework
+- Looking for a junior fullstack developer role where I can keep growing
 
-### 🌱 What I’m working on
-- Building full-stack projects with **JavaScript**, **Node.js**, and **React**
-- Exploring **open-source contributions** and **collaboration**
-- Learning **best practices** in frontend & backend development
+## Core stack
 
----
+JavaScript, TypeScript, Node.js, React, PostgreSQL, MongoDB, Docker
 
-### 🎯 Goals
--  Find a **LIA internship (Nov 2026 – Apr 2027)** to apply my skills in a real-world environment  
-- 🌟 Keep improving every day as a developer and teammate 🌟  
+## Also working with
 
----
+PHP, Laravel, Fastify, Prisma, React Native, RabbitMQ, Socket.IO/WebSocket, REST APIs, webhooks, OAuth, JWT, CI/CD, Nginx, PM2, Linux, Amazon S3, microservices, cron jobs
 
-### 🛠️ Tech & Tools
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)
-![Open Source](https://img.shields.io/badge/Focus-Open%20Source-blue?logo=github)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=fff)
+## Contact
 
----
-
-### 📊 GitHub Stats
-
-![Sienna's GitHub stats](https://github-readme-stats.vercel.app/api?username=siensky&show_icons=true&theme=solarized-light)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siensky&layout=compact&theme=solarized-light)
-
----
-
-### Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=siensky&style=flat-square&color=blue)
+- LinkedIn: [[[länk](https://www.linkedin.com/in/sienna-lansky-85331138a/)]]
+- Email: [siennalansky@gmail.com]
+- Portfolio: [länk när den är klar]
