@@ -23,6 +23,6 @@ PHP, Laravel, Fastify, Prisma, React Native, RabbitMQ, Socket.IO/WebSocket, REST
 
 ## Contact
 
-- LinkedIn: [[[länk](https://www.linkedin.com/in/sienna-lansky-85331138a/)]]
+- LinkedIn: [[https://www.linkedin.com/in/sienna-lansky-85331138a/](https://www.linkedin.com/in/sienna-lansky-85331138a/)]
 - Email: [siennalansky@gmail.com]
-- Portfolio: [länk när den är klar]
+- Portfolio: [[https://www.siennaportfolio.dev/](https://www.siennaportfolio.dev/)]
