@@ -8,7 +8,8 @@ I'm particularly interested in system design — how services are structured, ho
 
 | Project | Description | Stack |
 |---|---|---|
-| [Faktureringssystem](https://github.com/siensky/faktureringssystem-be) | Multi-tenant invoicing SaaS with automatic payment matching, BankID login and Stripe checkout, split across four backend services. | TypeScript · Bun · Fastify · Python/FastAPI · PostgreSQL · RabbitMQ · React |
+| [Faktureringssystem](https://github.com/siensky/faktureringssystem-be) | Multi-tenant invoicing SaaS with automatic payment matching, BankID login and Stripe checkout, split across four backend services. | TypeScript · Bun · Fastify · Python/FastAPI · PostgreSQL · RabbitMQ · React | 
+| [Klinik Söder](https://github.com/siensky/klinik-soder-ai-bokning) | AI-powered Swedish voice booking assistant for a clinic — handles availability, bookings, cancellations and rescheduling through custom tool calls and authenticated backend workflows. | Vapi · n8n · JavaScript · Google Calendar API · Gmail API |
 | [Snabbmat](https://github.com/siensky/snabbmat) | Event-driven fast-food ordering system — five services coordinating an order's lifecycle from cart to kitchen to pickup over RabbitMQ. | Bun · PostgreSQL · RabbitMQ · React · Docker |
 | [Library](https://github.com/siensky/library) | REST API for a library system — book/author catalog, loan tracking, and role-based access, deployed live. | Bun · PostgreSQL · Auth0 |
 
