@@ -21,7 +21,7 @@ JavaScript, TypeScript, Node.js, React, PostgreSQL, MongoDB, Docker
 
 ## Also working with
 
-PHP, Laravel, Fastify, Prisma, React Native, RabbitMQ, Socket.IO/WebSocket, REST APIs, webhooks, OAuth, JWT, CI/CD, Nginx, PM2, Linux, Amazon S3, microservices, cron jobs
+PHP, Laravel, Fastify, Prisma, React Native, Expo, RabbitMQ, Socket.IO/WebSocket, REST APIs, webhooks, OAuth, JWT, Zod, TanStack Query, Redis, Kubernetes, Terraform, Prometheus, Grafana, CI/CD (GitHub Actions), n8n, Nginx, PM2, Linux, Amazon S3, microservices, cron jobs
 
 ## Contact
 
